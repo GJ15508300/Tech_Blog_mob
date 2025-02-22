@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "970982871449",
+    "project_id": "tech-blog-abaad",
+    "storage_bucket": "tech-blog-abaad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970982871449:android:bf4bb423943c52e9c24308",
+        "android_client_info": {
+          "package_name": "com.tech_blog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwqDuUNLqxlUn7YUlYqCp-G3vIJoN53Mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
